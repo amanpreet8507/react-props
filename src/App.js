@@ -4,7 +4,7 @@ import CardList from './components/CardList';
 function App() {
   return (
     <>
-      <Header />
+      <Header logo='Hi' />
       <CardList />
     </>
   );
